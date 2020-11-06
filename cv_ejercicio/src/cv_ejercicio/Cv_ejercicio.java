@@ -11,14 +11,8 @@ package cv_ejercicio;
  */
 public class Cv_ejercicio {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
         System.out.println("Versión 0");
-        System.out.println("Versión 1");
-        System.out.println("Versión Nilsa Satova");
     }
     
 }
