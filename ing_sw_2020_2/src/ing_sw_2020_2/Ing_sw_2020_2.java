@@ -13,6 +13,7 @@ public class Ing_sw_2020_2 {
     public static void main(String[] args) {
         System.out.println("Bienvenido");
         System.out.println("Integrando Netbeans con github");
+        System.out.println("Version 1.1 modificada desde github");
     }
     
 }
